@@ -2,7 +2,7 @@ package ru.javarush.novikov.cryptoanalizer;
 
 import ru.javarush.novikov.cryptoanalizer.controllers.MainController;
 import ru.javarush.novikov.cryptoanalizer.entity.Result;
-import ru.javarush.novikov.exceptions.AppException;
+import ru.javarush.novikov.cryptoanalizer.exceptions.AppException;
 
 import java.util.Arrays;
 
